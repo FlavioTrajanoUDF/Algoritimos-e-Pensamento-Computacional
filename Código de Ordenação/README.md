@@ -107,7 +107,7 @@ Ou seja:
 | Selection Sort | 0.021 ms   | 1.2764 ms   | 114,756 ms |
 | Quick Sort     | 0.0082 ms  | 0.1062 ms   | 6,276 ms   |
 
-### CSV Opcional
+### CSV
 
 ```csv
 N,passosBubble,tempoBubble_ms,passosSelection,tempoSelection_ms,passosQuick,tempoQuick_ms
