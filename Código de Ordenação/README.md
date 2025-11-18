@@ -119,17 +119,6 @@ Quick,100,...,...
 
 ---
 
-## 📈 Gráfico Opcional
-
-Sugestão de plotagem (Python/Excel):
-
-* Eixo X: N
-* Eixo Y: tempo (ms)
-* Três curvas: Bubble, Selection, Quick
-
-Outro gráfico possível: passos × N.
-
----
 
 ## 🧩 Discussão Crítica
 
