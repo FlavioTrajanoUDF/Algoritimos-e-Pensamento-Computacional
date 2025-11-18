@@ -110,11 +110,10 @@ Ou seja:
 ### CSV Opcional
 
 ```csv
-Algoritmo,N,Passos,Tempo_ms
-Bubble,100,...,...
-Selection,100,...,...
-Quick,100,...,...
-...
+N,passosBubble,tempoBubble_ms,passosSelection,tempoSelection_ms,passosQuick,tempoQuick_ms
+100,7487,0.022,5049,0.013,1128,0.006
+1000,752277,1.574,500499,0.937,17480,0.076
+10000,75225439,173.612,50004999,89.601,238339,0.965
 ```
 
 ---
